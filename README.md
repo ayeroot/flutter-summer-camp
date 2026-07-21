@@ -1,6 +1,6 @@
 # Flutter Summer Camp - 90-Day Logbook
 > My journey through the **FlutterFire Summer Camp 2026**: one exercise, one commit, every day. From pure Dart to Demo Day.
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) ![Progress](https://img.shields.io/badge/days-0%2F90-lightgrey)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) ![Progress](https://img.shields.io/badge/days-3%2F90-lightgrey)
 ## The principle
 **1 day = 1 exercise = 1 commit.** 90 days to go from zero Flutter to a published app, keeping the contribution graph green. Each exercise lives in its week folder; check the box here once it's pushed.
 ## Structure
